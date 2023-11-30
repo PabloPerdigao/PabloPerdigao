@@ -62,7 +62,6 @@ I 🚀 Prepare-se para decolar rumo a um mundo de programação onde a diversão
 
 <br>
 
-
 <div align="center">
   <h3><b>Profile Visitor Count</b></h3>
 </div>
