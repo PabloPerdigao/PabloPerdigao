@@ -15,9 +15,30 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer, entã
 se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo.
 
 </br> 
-<p align="left">
+
+<h2 align="left">
+ 🧠 Linguagens:
+</h2>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+<br><br>
+<h2 align="left">
+💬 No mais ... 
+</h2>
+
+I 🤗 Seja muito bem-vindo(a) a bordo dessa tech journey! </br>
+I 🗺️☕ Onde a rota são de códigos, desafios e descobertas...com paradas para café,como um bom Dev mineiro.
+
+I 🚀 Prepare-se para decolar rumo a um mundo de programação onde a diversão nunca para!
+<br>
+<br>
+
+<h2 align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
-</p>
+</h2>
 
 <a href="https://www.linkedin.com/in/pabloperdigao/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -29,25 +50,12 @@ se você estiver interessado em colaborar ou compartilhar ideias, não hesite em
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br>
-💭 No mais... 
-
-🤗 Seja muito bem-vindo(a) a bordo dessa tech journey! </br>
-🗺️☕ Onde a rota são de códigos, desafios e descobertas...com paradas para café,como um bom dev mineiro.
-
-🚀 Prepare-se para decolar rumo a um mundo de programação onde a diversão nunca para!
+<br>
+<br>
 
 <h2 align="left">
- 🦄 Linguagens:
+ 
 </h2>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-
-<br>
-<br>
-
   
   </tr>
 </table>
