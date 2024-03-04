@@ -4,7 +4,7 @@
 
 <p align="left"> 
 🌱 Natrural de Minas Gerais 
- 📍 18 anos & futuro <strong>👨🏼‍💻 Dev Full Stack</strong>.
+ 📍 19 anos & futuro <strong>👨🏼‍💻 Dev Full Stack</strong>.
 
 Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de Desenvolvimento Full Stack; e com muito interesse nas áreas de Front-end, Web e Ui Design. 
 
