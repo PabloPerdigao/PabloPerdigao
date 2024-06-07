@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-🌱 Natrural de Minas Gerais 
+🌱 Natural de Minas Gerais 
  📍 19 anos & futuro <strong>👨🏼‍💻 Dev Full Stack</strong>.
 
 Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de Desenvolvimento Full Stack; e com muito interesse nas áreas de Front-end, Web e Ui Design. 
