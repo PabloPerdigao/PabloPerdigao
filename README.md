@@ -34,10 +34,10 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer, entã
 💬 No mais ... 
 </h2>
 
-I 🤗 Seja muito bem-vindo(a) a bordo dessa tech journey! </br>
-I 🗺️☕ Onde a rota são de códigos, desafios e descobertas...com paradas para café,como um bom Dev mineiro.
+| 🤗 Seja muito bem-vindo(a) a bordo dessa tech journey! </br>
+| 🗺️☕ Onde a rota são de códigos, desafios e descobertas...com paradas para café,como um bom mineiro Dev ser 😉
 
-I 🚀 Prepare-se para decolar rumo a um mundo de programação onde a diversão nunca para!
+| 🚀 Prepare-se para decolar rumo a um mundo de programação onde a diversão nunca para!
 <br>
 <br>
 
