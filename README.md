@@ -3,16 +3,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-🌱 Natural de Minas Gerais 
- 📍 19 anos & futuro <strong>👨🏼‍💻 Dev Full Stack</strong>.
+<strong>👨🏼‍💻 Dev Front-end Jr</strong> 🌱 Natural de Minas Gerais 📍 19 anos 
+ 
 
-Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de Desenvolvimento Full Stack; e com muito interesse nas áreas de Front-end, Web e Ui Design. 
+Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de Desenvolvimento com foco em Front-end, Web e Ui Design. 
+Tendo como propósito, fazer parte da construção de um mundo tecnologicamente acessível, interativo, eficaz e écalro, onde tenhamos maior propriedade digital e controle sobre nossos dados.
+<br>
+<br>🎓Atualmente, estou graduando na FIAP, Análise & Desenvolvimento de Sistemas. Além de cursar a formação Full Satck da Rocketseat para me capacitar ainda mais. 
 
-Busco continuamente pelo aprendizado e aprimoramento para alcançar resultados positivos e contribuir para o sucesso da equipe e da organização em que atuo.
-Estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou cursando o Explorer da @Rocketseat, após conclusão deste começarei o Ignite e o curso de Figma for Devs.
+📈🧠 Acredito que com esforço direcionado em busca de progresso, tudo é possível!
 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer, então... <br>
-😉se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo.
+😉 Estou sempre em busca de desafios e oportunidades para aprender e crescer, então... <br>
+se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo.
 
 </br> 
 
