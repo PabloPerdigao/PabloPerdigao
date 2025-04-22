@@ -3,11 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-<strong>👨🏼‍💻 Dev Front-end Jr</strong> 🌱 Natural de Minas Gerais 📍 19 anos 
+<strong>👨🏼‍💻 Dev Front-end Jr</strong> 🌱 Natural de Minas Gerais 📍 20 anos 
  
 
 Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de Desenvolvimento com foco em Front-end, Web e Ui Design. 
-Tendo como propósito, fazer parte da construção de um mundo tecnologicamente acessível, interativo, eficaz e écalro, onde tenhamos maior propriedade digital e controle sobre nossos dados.
+Tendo como propósito, fazer parte da construção de um mundo tecnologicamente acessível, interativo, eficaz e é claro, onde tenhamos maior propriedade digital e controle sobre nossos dados.
 <br>
 <br>🎓Atualmente, estou graduando na FIAP, Análise & Desenvolvimento de Sistemas. Além de cursar a formação Full Satck da Rocketseat para me capacitar ainda mais. 
 
