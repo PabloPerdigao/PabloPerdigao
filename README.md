@@ -11,9 +11,9 @@ Tendo como propósito, fazer parte da construção de um mundo tecnologicamente 
 <br>
 <br>🎓Atualmente, estou graduando na FIAP, Análise & Desenvolvimento de Sistemas. Além de cursar a formação Full Satck da Rocketseat para me capacitar ainda mais. 
 
-📈🧠 Acredito que com esforço direcionado em busca de progresso, tudo é possível!
+📈 Acredito que com esforço direcionado em busca de progresso, tudo é possível!
 
-😉 Estou sempre em busca de desafios e oportunidades para aprender e crescer, então... <br>
+🚀 Estou sempre em busca de desafios e oportunidades para aprender e crescer, então... <br>
 se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo.
 
 </br> 
@@ -25,13 +25,20 @@ se você estiver interessado em colaborar ou compartilhar ideias, não hesite em
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Oracle SQL Data Modeler](https://img.shields.io/badge/Oracle_SQL_Data_Modeler-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
 <br/>
-<br><br>
 <h2 align="left">
 💬 No mais ... 
 </h2>
@@ -44,7 +51,7 @@ se você estiver interessado em colaborar ou compartilhar ideias, não hesite em
 <br>
 
 <h2 align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
+  📲 Sinta-se a vontade para entrar em contato: ⤵️
 </h2>
 
 <a href="https://www.linkedin.com/in/pabloperdigao/" title="LinkedIn" target="_blank">
