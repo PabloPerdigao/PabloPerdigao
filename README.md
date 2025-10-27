@@ -1,7 +1,5 @@
 ## 👋🌎 Hello, World... muito prazer, o meu nome é <strong>Pablo Perdigão</strong>! 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
 <strong>👨🏼‍💻 Dev Front-end Jr</strong> 🌱 Natural de Minas Gerais 📍 20 anos 
  
