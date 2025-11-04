@@ -3,6 +3,12 @@
 <p align="left"> 
 <strong>👨🏼‍💻 Dev Front-end Jr 🌱 Natural de Minas Gerais 📍 20 anos</strong>
 
+<table>
+  <a href="https://github.com/PabloPerdigao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloPerdigao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPerdigao&layout=compact&langs_count=6&theme=tokyonight"/>
+</table>
+
 Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de Desenvolvimento com foco em Front-end, Web e Ui Design. 
 Tendo como propósito, fazer parte da construção de um mundo tecnologicamente acessível, interativo, eficaz e é claro, onde tenhamos maior propriedade digital e controle sobre nossos dados.
 
@@ -43,6 +49,7 @@ se você estiver interessado em colaborar ou compartilhar ideias, não hesite em
 | Seja muito bem-vindo(a) a bordo dessa tech journey! <br>
 | Prepare-se para decolar rumo a um mundo de programação onde a diversão nunca para!</br>
 | Onde a rota são de códigos, desafios e descobertas...com paradas para café,como um bom mineiro Dev ser 
+
 🌐🤝🚀
 <br>
 
