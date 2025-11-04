@@ -1,13 +1,13 @@
-## 👋🌎 Hello, World... muito prazer, o meu nome é <strong>Pablo Perdigão</strong>! 
+## 👋🌎 Hello, World... muito prazer, o meu nome é Pablo Perdigão! 
 
 <p align="left"> 
-<strong>👨🏼‍💻 Dev Front-end Jr</strong> 🌱 Natural de Minas Gerais 📍 20 anos 
- 
+<strong>👨🏼‍💻 Dev Front-end Jr 🌱 Natural de Minas Gerais 📍 20 anos</strong>
 
 Sou um profissional dedicado, proativo e empenhado em desenvolver minhas habilidades na área de Desenvolvimento com foco em Front-end, Web e Ui Design. 
 Tendo como propósito, fazer parte da construção de um mundo tecnologicamente acessível, interativo, eficaz e é claro, onde tenhamos maior propriedade digital e controle sobre nossos dados.
-<br>
-<br>🎓Atualmente, estou graduando na FIAP, Análise & Desenvolvimento de Sistemas atuo como estagiágio desenvolvedor na PD Case Informática.
+
+🎓 Atualmente, estou graduando na FIAP, Análise & Desenvolvimento de Sistemas atuo como estagiágio desenvolvedor na PD Case Informática.
+
 📈 Acredito que com esforço direcionado em busca de progresso, tudo é possível!
 
 🚀 Estou sempre em busca de desafios e oportunidades para aprender e crescer, então... <br>
@@ -40,11 +40,10 @@ se você estiver interessado em colaborar ou compartilhar ideias, não hesite em
 💬 No mais ... 
 </h2>
 
-| 🤗 Seja muito bem-vindo(a) a bordo dessa tech journey! </br>
-| 🗺️☕ Onde a rota são de códigos, desafios e descobertas...com paradas para café,como um bom mineiro Dev ser 😉
-
-| 🚀 Prepare-se para decolar rumo a um mundo de programação onde a diversão nunca para!
-<br>
+| Seja muito bem-vindo(a) a bordo dessa tech journey! <br>
+| Prepare-se para decolar rumo a um mundo de programação onde a diversão nunca para!</br>
+| Onde a rota são de códigos, desafios e descobertas...com paradas para café,como um bom mineiro Dev ser 
+🌐🤝🚀
 <br>
 
 <h2 align="left">
@@ -61,15 +60,8 @@ se você estiver interessado em colaborar ou compartilhar ideias, não hesite em
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 <br>
-<br>
-<br>
 
-<h2 align="left">
- 
-</h2>
-  
-  </tr>
-</table>
+<h2 align="left"></h2>
 
 <br>
 
