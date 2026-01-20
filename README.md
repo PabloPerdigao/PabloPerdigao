@@ -1,7 +1,7 @@
 ## 👋🌎 Hello, World... muito prazer, o meu nome é Pablo Perdigão! 
 
 <p align="left"> 
-<strong>👨🏼‍💻 Dev Front-end Jr 🌱 Natural de Minas Gerais 📍 20 anos</strong>
+<strong>👨🏼‍💻 Dev Front-end Jr 🌱 Natural de Minas Gerais 📍 21 anos</strong>
 
 <table>
   <a href="https://github.com/PabloPerdigao">
