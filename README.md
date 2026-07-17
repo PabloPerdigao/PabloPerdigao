@@ -11,7 +11,7 @@
 
 Sou um profissional dedicado, oranizado e proativo. Que tem como propósito, fazer parte da construção de um mundo tecnologicamente acessível, interativo, eficaz e é claro, onde tenhamos maior propriedade digital e controle sobre nossos dados.
 
-🎓 Atualmente graduando na FIAP, Análise & Desenvolvimento de Sistemas, atuo como estagiágio desenvolvedor na PD Case Informática.
+🎓 Atualmente graduando na FIAP, Análise & Desenvolvimento de Sistemas, atuo como estagiário desenvolvedor na PD Case Informática.
 
 📈 Acredito que com esforço direcionado em busca de progresso, tudo é possível!
 
@@ -35,7 +35,6 @@ se você estiver interessado em colaborar ou compartilhar ideias, não hesite em
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
