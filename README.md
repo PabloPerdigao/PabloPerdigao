@@ -1,13 +1,7 @@
 ## 👋🌎 Hello, World... muito prazer, o meu nome é Pablo Perdigão! 
 
 <p align="left"> 
-<strong>👨🏼‍💻 Dev Front-end Jr 🌱 Natural de Minas Gerais 📍 21 anos</strong>
-
-<table>
-  <a href="https://github.com/PabloPerdigao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloPerdigao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPerdigao&layout=compact&langs_count=6&theme=tokyonight"/>
-</table>
+<strong>👨🏼‍💻 Dev Front-end Jr 🌱 Natural de Minas Gerais </strong>
 
 Sou um profissional dedicado, oranizado e proativo. Que tem como propósito, fazer parte da construção de um mundo tecnologicamente acessível, interativo, eficaz e é claro, onde tenhamos maior propriedade digital e controle sobre nossos dados.
 
