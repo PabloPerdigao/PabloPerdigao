@@ -12,6 +12,8 @@ Sou um profissional dedicado, oranizado e proativo. Que tem como propósito, faz
 🚀 Estou sempre em busca de desafios e oportunidades para aprender e crescer, então... <br>
 se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato.
 
+<h3>Clique para acessar:</h3><a href="https://www.linkedin.com/in/pabloperdigao/" title="Meu Portifólio" target="_blank"> Meu portifólio </a>
+
 </br> 
 
 <h2 align="left">
@@ -51,26 +53,4 @@ se você estiver interessado em colaborar ou compartilhar ideias, não hesite em
 
 <a href="https://www.linkedin.com/in/pabloperdigao/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<a href="https://wa.me/+5531998881324" title="WhatsApp" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-
-<a href="https://www.instagram.com/perdigao.techjourney/" title="Instagram" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
 <br>
-
-<h2 align="left"></h2>
-
-<br>
-
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/pabloperdigao/count.svg"
-    alt="Número de visitas no perfil"
-  />
-</p>
