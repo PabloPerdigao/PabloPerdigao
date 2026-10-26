@@ -1,11 +1,11 @@
-## 👋🌎 Hello, World... muito prazer, o meu nome é Pablo Perdigão! 
+## 👋🌎 Hello, World... muito prazer, sou o Pablo Perdigão! 
 
 <p align="left"> 
 <strong>👨🏼‍💻 Dev Front-end Jr 🌱 Natural de Minas Gerais </strong>
 
 Sou um profissional dedicado, oranizado e proativo. Que tem como propósito, fazer parte da construção de um mundo tecnologicamente acessível, interativo, eficaz e é claro, onde tenhamos maior propriedade digital e controle sobre nossos dados.
 
-🎓 Atualmente graduando na FIAP, Análise & Desenvolvimento de Sistemas, atuo como estagiário desenvolvedor na PD Case Informática.
+🎓 Graduado em ADS e pós-graduando em Desenvolvimento Full Stack pela FIAP, atuo como programador Trainee pela PD Case Informática.
 
 📈 Acredito que com esforço direcionado em busca de progresso, tudo é possível!
 
@@ -22,6 +22,7 @@ se você estiver interessado em colaborar ou compartilhar ideias, não hesite em
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=white)
@@ -30,8 +31,7 @@ se você estiver interessado em colaborar ou compartilhar ideias, não hesite em
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
 
 <br/>
 <h2 align="left">
